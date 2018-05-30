@@ -6,7 +6,8 @@ PackageCleanTool is a utility for helping to delete older packages for JetBrains
 PackageCleanTool is a utility for helping to delete older packages for JetBrains applications via Windows command line console.
 
 
-Options:
+Options:  
+
     -?, --help    : Display this help message
     -c, --clean   : Clean the older packages 
     -l, --list    : List the installed applications
